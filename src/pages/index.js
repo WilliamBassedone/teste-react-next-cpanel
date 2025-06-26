@@ -23,7 +23,7 @@ export default function Home() {
     <div>
       <h1 className="text-white">Página Inicial</h1>
       <p>
-        <Link href="/sobre" className="text-blue-500 hover:text-blue-700">
+        <Link href="/sobre" className="text-red-500 hover:text-blue-700">
           Ir para a página Sobre
         </Link>
       </p>
