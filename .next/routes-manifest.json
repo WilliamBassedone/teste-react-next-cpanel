@@ -20,14 +20,15 @@
       "regex": "^/(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/(?:/)?$"
-    }
-  ],
-  "dataRoutes": [
+    },
     {
-      "page": "/",
-      "dataRouteRegex": "^/_next/data/mIXMyrrdfjXksNcq\\-IZAZ/index\\.json$"
+      "page": "/sobre",
+      "regex": "^/sobre(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/sobre(?:/)?$"
     }
   ],
+  "dataRoutes": [],
   "rsc": {
     "header": "RSC",
     "varyHeader": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
